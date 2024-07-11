@@ -17,19 +17,9 @@ Talk to me about:
 - Backend development using **Node.js,Express**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Machine Learning** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
+- Machine Learning using **Python, Pandas, Numpy** (Still learning
 - Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
-- ⚡ Fun fact: Internet users blink less than usual.
+- Solving Data structure and algorithm questions in **C++**.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)**AyushPathak7074/AyushPathak7074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
